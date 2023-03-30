@@ -1,8 +1,2 @@
-#include <iostream>
-using namespace std;
-
-int main(){
-	int a=9;
-	int b=8;
-	cout<<a+b<<endl;
-	}
+idfhgjkdfghdk
+mounika change on 30/03/3032 at 11:54
